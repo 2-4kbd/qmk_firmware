@@ -5,7 +5,7 @@
 15 x 14 mm pitch keyboard
 
 Keyboard Maintainer: [2_4kbd](https://github.com/2-4kbd)  
-Hardware Supported: tsubute PCB, Pro Micro
+Hardware Supported: tsubute PCB, Pro Micro  
 Hardware Availability: [booth shop](https://2-4kbd.booth.pm/items/2041699)
 
 Make example for this keyboard (after setting up your build environment):
