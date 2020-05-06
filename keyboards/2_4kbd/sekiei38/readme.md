@@ -5,7 +5,7 @@
 A compact keyboard with choc switch.
 
 Keyboard Maintainer: [2_4kbd](https://github.com/2-4kbd)  
-Hardware Supported: sekiei38 PCB, Pro Micro
+Hardware Supported: sekiei38 PCB, Pro Micro  
 Hardware Availability: [Build Guide](https://nashi-kbd.hatenablog.com/entry/2019/08/24/185701), [booth shop](https://2-4kbd.booth.pm/items/1479069)
 
 Make example for this keyboard (after setting up your build environment):
